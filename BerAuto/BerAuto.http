@@ -1,0 +1,6 @@
+@BerAuto_HostAddress = http://localhost:5201
+
+GET {{BerAuto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
